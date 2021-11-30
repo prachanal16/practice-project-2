@@ -1,0 +1,14 @@
+Statement 1:
+   Yes is yes and no is no.
+
+Satement 2:
+   Yes is no and no is yes.
+
+Statement 3:
+   Team members : 
+        vaibhav
+        kuna
+
+Statement 4:
+    Reviewers:
+      Gal
