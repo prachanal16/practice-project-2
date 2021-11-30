@@ -1,14 +1,14 @@
 Statement 1:
-   Yes is yes and no is no.
+   Yes is no and no is yes.
 
 Satement 2:
-   Yes is no and no is yes.
+   Yes is yes and no is no.
 
 Statement 3:
    Team members : 
-        vaibhav
-        kuna
+        vaibav
+        kunal
 
 Statement 4:
     Reviewers:
-      Gal
+      Goel
